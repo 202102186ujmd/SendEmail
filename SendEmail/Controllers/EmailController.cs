@@ -28,6 +28,5 @@ namespace SendEmail.Controllers
             return Ok("Email enviado con exito");//Respuesta
         }
         #endregion
-
     }
 }
